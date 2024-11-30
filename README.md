@@ -34,6 +34,7 @@ This repository contains the resources, code, and documentation needed to build 
 
 ## Preview
 ![OmObiArm Preview](rover_and_arm9.png)
+
 *The OmObiArm: A Bluetooth-controlled mobile robot arm showcasing its gripping mechanism.*
 
 ---
