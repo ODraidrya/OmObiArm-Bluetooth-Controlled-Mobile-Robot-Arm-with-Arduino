@@ -40,7 +40,7 @@ This repository contains the resources, code, and documentation needed to build 
 ---
 
 ## Resources
-- **Blog Post:** [Building the OmObiArm: A Bluetooth-Controlled Mobile Robot Arm](https://omartronics.com/building-the-omobiarm)
+- **Blog Post:** [Building the OmObiArm: A Bluetooth-Controlled Mobile Robot Arm](https://omartronics.com/mobile-robot-arm-omobiarm-bluetooth-controlled/)
 - **YouTube Video:** [OmObiArm - Step-by-Step Build Tutorial](https://youtu.be/KSroUz1tMO0)
 - **STL Files:** [Download STL Files on Cults3D](https://cults3d.com/:2518381)
 
